@@ -29,7 +29,6 @@ A **2D tank battle game** built in **Java** using the **Processing** graphics li
 - **Language:** Java 8
 - **Build Tool:** Gradle
 - **Graphics:** Processing (`org.processing:core:3.3.7`)
-- **Utilities:** Google Guava
 - **Testing:** JUnit 5
 
 ---
