@@ -45,4 +45,4 @@ git clone https://github.com/TimWJT/tanks-game.git
 
 # Run the game
 .\gradlew.bat :app:run   # Windows Powershell or Command Prompt
-./gradlew :app:run       # Mac/Linux
+./gradlew :app:run       # Mac/Linux (unconfirmed)
