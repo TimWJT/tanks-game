@@ -34,7 +34,7 @@ A **2D tank battle game** built in **Java** using the **Processing** graphics li
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ### Prerequisites
 - Java 8 (JDK 1.8)
 - Gradle Wrapper (included — no need to install Gradle globally)
@@ -42,10 +42,9 @@ A **2D tank battle game** built in **Java** using the **Processing** graphics li
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/TimWJT/tanks-game-java.git
-cd tanks-game-java
+git clone https://github.com/TimWJT/tanks-game.git
 
 # Run the game
-.\gradlew.bat :app:run   # Windows
+.\gradlew.bat :app:run   # Windows Powershell or Command Prompt
 ./gradlew :app:run       # Mac/Linux
 That visual impact can make your repo stand out a lot more.
